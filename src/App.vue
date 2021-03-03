@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
+      <img on.click="https://www.bu.edu/spark/" alt="Spark logo" src="./assets/spark-project-engage.web.png" height="150" width="150" postion="right" >
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
